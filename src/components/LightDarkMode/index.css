@@ -1,0 +1,40 @@
+.lightMode {
+  background-color: white;
+  border-radius: 7px;
+  border: 2px solid #000000;
+  color: black;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+}
+.darkMode {
+  background-color: #000000;
+  border-radius: 7px;
+  color: white;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+}
+
+.light-mode {
+  background-color: white;
+  border-radius: 7px;
+  border: 2px solid #000000;
+  color: black;
+  padding: 10px;
+}
+.dark-mode {
+  background-color: white;
+  border-radius: 7px;
+  color: black;
+  padding: 10px;
+}
+
+.div-deco {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 30px;
+}
